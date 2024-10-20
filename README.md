@@ -14,5 +14,4 @@ With a strong foundation in manual testing, automation, and technical documentat
 
 <p align="center">
   <a href="mailto:sufyanaftab2002@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/sufyan-aftab2002/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.upwork.com/freelancers/~01744bd80e2e11bbeb"><img src="https://img.icons8.com/?size=50&id=whwDjQbvJcmB&format=png" alt="Upwork"/></a>
